@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">stash</string>
+    <string name="service_desc">Automated Recent Task Cleaner</string>
+    <string name="accessibility_service_description">This service automatically clears recent tasks when the recents screen is opened.</string>
+    <string-array name="close_all_variants">
+        <item>Close all</item>
+        <item>Đóng tất cả</item>
+        <item>Cerrar todo</item>
+        <item>Fermer tout</item>
+        <item>Alles schließen</item>
+        <item>Закрыть все</item>
+        <item>关闭所有</item>
+        <item>すべて閉じる</item>
+        <item>모두 닫기</item>
+    </string-array>
+</resources>
