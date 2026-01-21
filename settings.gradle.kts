@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "stash"
+rootProject.name = "Stash"
 include(":app")

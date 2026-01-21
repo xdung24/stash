@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">stash</string>
+    <string name="app_name">Stash</string>
     <string name="service_desc">Automated Recent Task Cleaner</string>
     <string name="accessibility_service_description">This service automatically clears recent tasks when the recents screen is opened.</string>
     <string-array name="close_all_variants">
